@@ -1,0 +1,8 @@
+
+npm init -y
+
+
+npm install express sequelize mysql2 bcryptjs jsonwebtoken body-parser cros
+
+npm install multer
+npm install bcryptjs
